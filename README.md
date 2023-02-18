@@ -1,2 +1,2 @@
 # mygosocialfi
-MygoSocialFi prototype
+Welcome to MygoSocialFi
