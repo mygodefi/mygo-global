@@ -1,2 +1,0 @@
-# mygosocialfi
-Welcome to MygoSocialFi
